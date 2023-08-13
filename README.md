@@ -19,6 +19,8 @@ pivpn debug
 
 ## Backup configuration
 
+Backups stored in Dropbox, `pivpn` folder
+
 To restore the backup, follow instructions at:
 [https://docs.pivpn.io/openvpn/wireguard/#migrating-pivpn-wireguard]
 
